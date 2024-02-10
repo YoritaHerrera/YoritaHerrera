@@ -1,8 +1,11 @@
-<html lang="en-US"><head>
-    <meta charset="UTF-8">
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
+
 <title>Yorita Herrera | Una diseñadora aprendiendo fullstack dev</title>
+
 <meta name="generator" content="Jekyll v3.9.4">
 <meta property="og:title" content="Yorita Herrera">
 <meta property="og:locale" content="en_US">
@@ -37,9 +40,11 @@
 
   </head>
   <body>
+  
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     
     <header class="page-header" role="banner">
+    
       <h1 class="project-name">Yorita Herrera</h1>
       <h2 class="project-tagline">Una diseñadora aprendiendo fullstack dev</h2>
     </header>
