@@ -14,8 +14,4 @@
   <li>🌱 I’m currently learning fullstack dev</li>
 </ul>
 
-
-      
-    </div>
-
 </body></html>
