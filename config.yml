@@ -2,3 +2,6 @@ name: My Site
 theme: jekyll-theme-cayman
 
 gem "github-pages", group: :jekyll_plugins
+
+title: Yorita Herrera
+description: Una diseñadora aprendiendo fullstack dev
