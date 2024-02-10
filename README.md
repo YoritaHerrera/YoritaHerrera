@@ -3,7 +3,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>YoritaHerrera | Diseñadora Gráfica estudiando fullstack dev</title>
 <meta name="generator" content="Jekyll v3.9.4">
 <meta property="og:title" content="YoritaHerrera">
@@ -11,12 +10,8 @@
 <meta name="description" content="Diseñadora Gráfica estudiando fullstack dev">
 <meta property="og:description" content="Diseñadora Gráfica estudiando fullstack dev">
 <link rel="canonical" href="https://yoritaherrera.github.io/YoritaHerrera/">
-<meta property="og:url" content="https://yoritaherrera.github.io/YoritaHerrera/">
-<meta property="og:site_name" content="YoritaHerrera">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="YoritaHerrera">
 <script type="application/ld+json">
+    
 {"@context":"https://schema.org","@type":"WebSite","description":"Diseñadora Gráfica estudiando fullstack dev","headline":"YoritaHerrera","name":"YoritaHerrera","url":"https://yoritaherrera.github.io/YoritaHerrera/"}</script>
 <!-- End Jekyll SEO tag -->
 
