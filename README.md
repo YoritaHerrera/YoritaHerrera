@@ -34,16 +34,20 @@
 
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+   <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://yoritaherrera.github.io/YoritaHerrera/">YoritaHerrera</a></h1>
       
 
       <ul>
-  <li>🌱 I’m currently learning fullstack dev</li>
+  <li>🌱 I’m currently learning design web & fullstack dev</li>
 </ul>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+      </div>
+      
+    </div>
 
 </body></html>
