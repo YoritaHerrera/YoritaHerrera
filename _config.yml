@@ -1,9 +1,12 @@
-<html lang="en-US"><head>
+<html lang="en-US">
+
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>YoritaHerrera | Diseñadora Gráfica estudiando fullstack dev</title>
+
 <meta name="generator" content="Jekyll v3.9.4">
 <meta property="og:title" content="YoritaHerrera">
 <meta property="og:locale" content="en_US">
@@ -11,9 +14,6 @@
 <meta property="og:description" content="Diseñadora Gráfica estudiando fullstack dev">
 <link rel="canonical" href="https://yoritaherrera.github.io/YoritaHerrera/">
 <script type="application/ld+json">
-    
-{"@context":"https://schema.org","@type":"WebSite","description":"Diseñadora Gráfica estudiando fullstack dev","headline":"YoritaHerrera","name":"YoritaHerrera","url":"https://yoritaherrera.github.io/YoritaHerrera/"}</script>
-<!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/YoritaHerrera/assets/css/style.css?v=0874d7d8fa2336f6afbe06a0075499a284e0db23">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
@@ -23,12 +23,15 @@
 
 
 <!-- You can set your favicon here -->
+
 <!-- link rel="shortcut icon" type="image/x-icon" href="/YoritaHerrera/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
   </head>
+  
   <body>
+  
    <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://yoritaherrera.github.io/YoritaHerrera/">YoritaHerrera</a></h1>
