@@ -5,18 +5,19 @@ element.style {
 .page-header {
     padding: 3rem 4rem;
 }
-<style>
 .page-header {
     color: rgb(255, 255, 255);
     text-align: center;
     background-color: rgb(21, 153, 87);
     background-image: linear-gradient(120deg, rgb(21, 87, 153), rgb(21, 153, 87));
 }
+</style>
+
 <style>
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block;
 }
-<style>
+
 * {
     box-sizing: border-box;
 }
@@ -24,6 +25,8 @@ user agent stylesheet
 header {
     display: block;
 }
+</style>
+
 <style>
 body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -33,3 +36,4 @@ body {
     padding: 0px;
     margin: 0px;
 }
+</style>
