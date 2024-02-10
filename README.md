@@ -5,13 +5,8 @@
 
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://yoritaherrera.github.io/YoritaHerrera/">YoritaHerrera</a></h1>
-      
-
-      <ul>
-  <li>🌱 I’m currently learning fullstack dev</li>
-</ul>
+    <div class="container-lg px-3 my-5 markdown-body"><ul>
+       <li>🌱 I’m currently learning fullstack dev</li>
+        </ul></div>
 
 </body></html>
